@@ -1,7 +1,7 @@
 # LAB 5 TASKS
 
 Author: Hardikh Parikh<br>
-Email:  bed-com-10-25@unima.ac.mw
+Email:  hardikhparikh536@gmail.com
 
 ## First Uploads to a Git Repository
 
