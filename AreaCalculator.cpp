@@ -57,7 +57,7 @@ int main()
     cout << "\t3. Circle" << endl;
     cout << "\t4. Triangle" << endl;
     cout << "\t5. To Exit Program" << endl;
-
+    cout << "\n Enter selection: ";
     short choice;
     cin >> choice;
 
