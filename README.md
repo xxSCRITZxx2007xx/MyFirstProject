@@ -15,3 +15,5 @@ Email:  hardikhparikh536@gmail.com
    that start will the letter "B"
 
 4. a program that Calculates areas of different shapes
+
+5. a program that reads a file with some string, then     calculates the number of vowels in the string ,prints a reversed version of the string and prints a version of the string with the second letter of each word Capitalised. 
